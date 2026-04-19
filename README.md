@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # SQL-Property-Data# SQL-Property-Data_
-=======
+
 # Property24 SQL Mini Project
 
 This project involves analyzing a large dataset of residential properties across all nine provinces of South Africa using SQL queries. The dataset simulates a real estate platform similar to Property24, containing approximately 100,000 records.
